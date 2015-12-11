@@ -551,22 +551,7 @@ img.pro-thumb {
     margin-top:1em;
 
 }
-a.view {
-	text-decoration: none;
-	font-size: 1em;
-	padding: 0.5em 1em;
-	color: #fff;
-	background: #279f7c;
-	border-radius: 2px;
-}
-a.view:hover {
-	color: #fff;
-	background: #68C9AC;
-}
-.left-list {
-	padding: 1em 0px;
-	font-weight: bold;
-}
+
 /*--contact--*/
 .contact-inline p{
 	font-size:1em;
@@ -1430,7 +1415,39 @@ a.view {
 }
 
 
+
+
+
+a.view {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 0.5em 1em;
+	color: #fff;
+	background: #279f7c;
+	border-radius: 2px;
+	/*margin-bottom: 10px;*/
+}
+a.view:hover {
+	color: #fff;
+	background: #68C9AC;
+}
+.left-list {
+	padding: 1em 0px;
+	font-weight: bold;
+	margin-top: 5.5em;
+}
+
+
 .right-data .name{
 	min-height: 40px; 
 }
 
+
+.carousel-control.left, .carousel-control.right {
+   background-image:none !important;
+   filter:none !important;
+}
+
+#carousel-example-generic {
+	margin-top: 10px;
+}
