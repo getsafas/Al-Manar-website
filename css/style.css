@@ -460,26 +460,8 @@ ul.box-in {
 .banner-matter {
 	padding: 2em 0 0;
 }
-p.info{
-	height: 72px;
-	overflow: hidden;
-}
-.top-comment-left {
-	width: 17%;
-}
-.top-comment-right {
-	width: 76%;
-}
-.top-comment-right p {
-	height: 43px;
-	overflow: hidden;
-}
-.table-form form input[type="text"] {
-	width: 65%;
-}
-.table-form textarea {
-	width: 80%;
-}
+
+
 .artical-links ul li a {
 	padding-left: 10px;
 }
@@ -692,9 +674,9 @@ ul.box-in {
 }
 
 
-.view {
+/*.view {
 	display: none;
-}
+}*/
 
 a.view {
 	
@@ -813,6 +795,11 @@ hr {
 	
 	font-size: 20px;
 	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-bottom: 17px;
 }
 
+.about-contact{
+	font-size: 16px;
+	margin-top: 6px;
+	color: #000000;
+}
