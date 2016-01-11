@@ -98,7 +98,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 .top-nav span.menu{
 	display: block;
 	width:100%;
-	position:relative;
+	position:right;
 	text-align: right;
 }
 .top-nav ul li{
@@ -319,9 +319,6 @@ ul.box-in {
 .top-nav {
 	padding: 0.8em 0 0;
 }
-.sb-search {
-	top: 14px;
-}
 .services-grid {
 	padding: 1em 0 3em;
 }
@@ -488,9 +485,7 @@ ul.box-in {
 	padding:0;
 	width:54%;
 }
-.tv {
-	width: 46%;
-}
+
 .banner-matter p {
 	font-size: 0.9em;
 	line-height: 1.5em;
@@ -545,15 +540,6 @@ ul.box-in {
 .meet {
 	padding: 0 0 0em;
 }
-.twitter h4 {
-	font-size: 1.5em;
-}
-.twitter-in {
-	padding: 0.5em 0 0;
-}
-.twitter-in p, .twitter-in span{
-	font-size: 0.9em;
-}
 ul.box-in {
 	width: 87%;
 	padding:1em 0 0;
@@ -579,9 +565,7 @@ ul.box-in {
 .contact-inline h5, .map h5, .contact-grid h5 {
 	font-size: 1.3em;
 }
-.map iframe {
-	min-height: 100px;
-}
+
 .contact-inline p {
 	font-size: 0.9em;
 }
@@ -737,6 +721,8 @@ a.view-pro:hover {
 #carousel-example-generic {
 	margin-top: 25px;
 }
+
+
 
 
 hr {
